@@ -1,0 +1,801 @@
+Folder PATH listing for volume Data
+Volume serial number is 220C-6E1B
+E:.
+³   faceRecognitionQt0.exe
+³   haarcascade_eye.xml
+³   haarcascade_frontalface_alt.xml
+³   main.obj
+³   mainwindow.obj
+³   moc_mainwindow.cpp
+³   moc_mainwindow.obj
+³   pcaknn.obj
+³   Qt5Core.dll
+³   Qt5Gui.dll
+³   Qt5Widgets.dll
+³   train.txt
+³   tree.txt
+³   
+ÃÄÄÄfaceDataset
+³   ÃÄÄÄs1
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs10
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs11
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs12
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs13
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs14
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs15
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs16
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs17
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs18
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs19
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs2
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs20
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs21
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs22
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs23
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs24
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs25
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs26
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs27
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs28
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs29
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs3
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs30
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs31
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs32
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs33
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs34
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs35
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs36
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs37
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs38
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs39
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs4
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs40
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs5
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs6
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs7
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÃÄÄÄs8
+³   ³       1.pgm
+³   ³       10.pgm
+³   ³       2.pgm
+³   ³       3.pgm
+³   ³       4.pgm
+³   ³       5.pgm
+³   ³       6.pgm
+³   ³       7.pgm
+³   ³       8.pgm
+³   ³       9.pgm
+³   ³       
+³   ÀÄÄÄs9
+³           1.pgm
+³           10.pgm
+³           2.pgm
+³           3.pgm
+³           4.pgm
+³           5.pgm
+³           6.pgm
+³           7.pgm
+³           8.pgm
+³           9.pgm
+³           
+ÀÄÄÄinstall
+    ³   LICENSE
+    ³   OpenCVConfig-version.cmake
+    ³   OpenCVConfig.cmake
+    ³   
+    ÃÄÄÄinclude
+    ³   ÃÄÄÄopencv
+    ³   ³       cv.h
+    ³   ³       cv.hpp
+    ³   ³       cvaux.h
+    ³   ³       cvaux.hpp
+    ³   ³       cvwimage.h
+    ³   ³       cxcore.h
+    ³   ³       cxcore.hpp
+    ³   ³       cxeigen.hpp
+    ³   ³       cxmisc.h
+    ³   ³       highgui.h
+    ³   ³       ml.h
+    ³   ³       
+    ³   ÀÄÄÄopencv2
+    ³       ³   calib3d.hpp
+    ³       ³   core.hpp
+    ³       ³   features2d.hpp
+    ³       ³   flann.hpp
+    ³       ³   highgui.hpp
+    ³       ³   imgproc.hpp
+    ³       ³   ml.hpp
+    ³       ³   objdetect.hpp
+    ³       ³   opencv.hpp
+    ³       ³   opencv_modules.hpp
+    ³       ³   photo.hpp
+    ³       ³   stitching.hpp
+    ³       ³   superres.hpp
+    ³       ³   ts.hpp
+    ³       ³   video.hpp
+    ³       ³   videostab.hpp
+    ³       ³   
+    ³       ÃÄÄÄcalib3d
+    ³       ³       calib3d.hpp
+    ³       ³       
+    ³       ÃÄÄÄcontrib
+    ³       ³       contrib.hpp
+    ³       ³       detection_based_tracker.hpp
+    ³       ³       hybridtracker.hpp
+    ³       ³       openfabmap.hpp
+    ³       ³       retina.hpp
+    ³       ³       
+    ³       ÃÄÄÄcore
+    ³       ³       affine.hpp
+    ³       ³       core.hpp
+    ³       ³       core_c.h
+    ³       ³       cuda_devptrs.hpp
+    ³       ³       devmem2d.hpp
+    ³       ³       eigen.hpp
+    ³       ³       gpumat.hpp
+    ³       ³       internal.hpp
+    ³       ³       mat.hpp
+    ³       ³       opengl_interop.hpp
+    ³       ³       opengl_interop_deprecated.hpp
+    ³       ³       operations.hpp
+    ³       ³       types_c.h
+    ³       ³       version.hpp
+    ³       ³       wimage.hpp
+    ³       ³       
+    ³       ÃÄÄÄfeatures2d
+    ³       ³       features2d.hpp
+    ³       ³       
+    ³       ÃÄÄÄflann
+    ³       ³       allocator.h
+    ³       ³       all_indices.h
+    ³       ³       any.h
+    ³       ³       autotuned_index.h
+    ³       ³       composite_index.h
+    ³       ³       config.h
+    ³       ³       defines.h
+    ³       ³       dist.h
+    ³       ³       dummy.h
+    ³       ³       dynamic_bitset.h
+    ³       ³       flann.hpp
+    ³       ³       flann_base.hpp
+    ³       ³       general.h
+    ³       ³       ground_truth.h
+    ³       ³       hdf5.h
+    ³       ³       heap.h
+    ³       ³       hierarchical_clustering_index.h
+    ³       ³       index_testing.h
+    ³       ³       kdtree_index.h
+    ³       ³       kdtree_single_index.h
+    ³       ³       kmeans_index.h
+    ³       ³       linear_index.h
+    ³       ³       logger.h
+    ³       ³       lsh_index.h
+    ³       ³       lsh_table.h
+    ³       ³       matrix.h
+    ³       ³       miniflann.hpp
+    ³       ³       nn_index.h
+    ³       ³       object_factory.h
+    ³       ³       params.h
+    ³       ³       random.h
+    ³       ³       result_set.h
+    ³       ³       sampling.h
+    ³       ³       saving.h
+    ³       ³       simplex_downhill.h
+    ³       ³       timer.h
+    ³       ³       
+    ³       ÃÄÄÄgpu
+    ³       ³   ³   devmem2d.hpp
+    ³       ³   ³   gpu.hpp
+    ³       ³   ³   gpumat.hpp
+    ³       ³   ³   stream_accessor.hpp
+    ³       ³   ³   
+    ³       ³   ÀÄÄÄdevice
+    ³       ³       ³   block.hpp
+    ³       ³       ³   border_interpolate.hpp
+    ³       ³       ³   color.hpp
+    ³       ³       ³   common.hpp
+    ³       ³       ³   datamov_utils.hpp
+    ³       ³       ³   dynamic_smem.hpp
+    ³       ³       ³   emulation.hpp
+    ³       ³       ³   filters.hpp
+    ³       ³       ³   funcattrib.hpp
+    ³       ³       ³   functional.hpp
+    ³       ³       ³   limits.hpp
+    ³       ³       ³   reduce.hpp
+    ³       ³       ³   saturate_cast.hpp
+    ³       ³       ³   scan.hpp
+    ³       ³       ³   simd_functions.hpp
+    ³       ³       ³   static_check.hpp
+    ³       ³       ³   transform.hpp
+    ³       ³       ³   type_traits.hpp
+    ³       ³       ³   utility.hpp
+    ³       ³       ³   vec_distance.hpp
+    ³       ³       ³   vec_math.hpp
+    ³       ³       ³   vec_traits.hpp
+    ³       ³       ³   warp.hpp
+    ³       ³       ³   warp_reduce.hpp
+    ³       ³       ³   warp_shuffle.hpp
+    ³       ³       ³   
+    ³       ³       ÀÄÄÄdetail
+    ³       ³               color_detail.hpp
+    ³       ³               reduce.hpp
+    ³       ³               reduce_key_val.hpp
+    ³       ³               transform_detail.hpp
+    ³       ³               type_traits_detail.hpp
+    ³       ³               vec_distance_detail.hpp
+    ³       ³               
+    ³       ÃÄÄÄhighgui
+    ³       ³       cap_ios.h
+    ³       ³       highgui.hpp
+    ³       ³       highgui_c.h
+    ³       ³       ios.h
+    ³       ³       
+    ³       ÃÄÄÄimgproc
+    ³       ³       imgproc.hpp
+    ³       ³       imgproc_c.h
+    ³       ³       types_c.h
+    ³       ³       
+    ³       ÃÄÄÄlegacy
+    ³       ³       blobtrack.hpp
+    ³       ³       compat.hpp
+    ³       ³       legacy.hpp
+    ³       ³       streams.hpp
+    ³       ³       
+    ³       ÃÄÄÄml
+    ³       ³       ml.hpp
+    ³       ³       
+    ³       ÃÄÄÄnonfree
+    ³       ³       features2d.hpp
+    ³       ³       gpu.hpp
+    ³       ³       nonfree.hpp
+    ³       ³       ocl.hpp
+    ³       ³       
+    ³       ÃÄÄÄobjdetect
+    ³       ³       objdetect.hpp
+    ³       ³       
+    ³       ÃÄÄÄocl
+    ³       ³       matrix_operations.hpp
+    ³       ³       ocl.hpp
+    ³       ³       
+    ³       ÃÄÄÄphoto
+    ³       ³       photo.hpp
+    ³       ³       photo_c.h
+    ³       ³       
+    ³       ÃÄÄÄstitching
+    ³       ³   ³   stitcher.hpp
+    ³       ³   ³   warpers.hpp
+    ³       ³   ³   
+    ³       ³   ÀÄÄÄdetail
+    ³       ³           autocalib.hpp
+    ³       ³           blenders.hpp
+    ³       ³           camera.hpp
+    ³       ³           exposure_compensate.hpp
+    ³       ³           matchers.hpp
+    ³       ³           motion_estimators.hpp
+    ³       ³           seam_finders.hpp
+    ³       ³           util.hpp
+    ³       ³           util_inl.hpp
+    ³       ³           warpers.hpp
+    ³       ³           warpers_inl.hpp
+    ³       ³           
+    ³       ÃÄÄÄsuperres
+    ³       ³       optical_flow.hpp
+    ³       ³       superres.hpp
+    ³       ³       
+    ³       ÃÄÄÄts
+    ³       ³       gpu_perf.hpp
+    ³       ³       gpu_test.hpp
+    ³       ³       ts.hpp
+    ³       ³       ts_gtest.h
+    ³       ³       ts_perf.hpp
+    ³       ³       
+    ³       ÃÄÄÄvideo
+    ³       ³       background_segm.hpp
+    ³       ³       tracking.hpp
+    ³       ³       video.hpp
+    ³       ³       
+    ³       ÀÄÄÄvideostab
+    ³               deblurring.hpp
+    ³               fast_marching.hpp
+    ³               fast_marching_inl.hpp
+    ³               frame_source.hpp
+    ³               global_motion.hpp
+    ³               inpainting.hpp
+    ³               log.hpp
+    ³               motion_stabilizing.hpp
+    ³               optical_flow.hpp
+    ³               stabilizer.hpp
+    ³               videostab.hpp
+    ³               
+    ÀÄÄÄx64
+        ÀÄÄÄvc14
+            ÃÄÄÄbin
+            ³       opencv_annotation.exe
+            ³       opencv_annotationd.exe
+            ³       opencv_calib3d2413.dll
+            ³       opencv_calib3d2413d.dll
+            ³       opencv_contrib2413.dll
+            ³       opencv_contrib2413d.dll
+            ³       opencv_core2413.dll
+            ³       opencv_core2413d.dll
+            ³       opencv_createsamples.exe
+            ³       opencv_createsamplesd.exe
+            ³       opencv_features2d2413.dll
+            ³       opencv_features2d2413d.dll
+            ³       opencv_ffmpeg2413_64.dll
+            ³       opencv_flann2413.dll
+            ³       opencv_flann2413d.dll
+            ³       opencv_gpu2413.dll
+            ³       opencv_gpu2413d.dll
+            ³       opencv_haartraining.exe
+            ³       opencv_haartrainingd.exe
+            ³       opencv_highgui2413.dll
+            ³       opencv_highgui2413d.dll
+            ³       opencv_imgproc2413.dll
+            ³       opencv_legacy2413.dll
+            ³       opencv_legacy2413d.dll
+            ³       opencv_ml2413.dll
+            ³       opencv_ml2413d.dll
+            ³       opencv_nonfree2413.dll
+            ³       opencv_nonfree2413d.dll
+            ³       opencv_objdetect2413.dll
+            ³       opencv_objdetect2413d.dll
+            ³       opencv_ocl2413.dll
+            ³       opencv_ocl2413d.dll
+            ³       opencv_performance.exe
+            ³       opencv_performanced.exe
+            ³       opencv_photo2413.dll
+            ³       opencv_photo2413d.dll
+            ³       opencv_stitching2413.dll
+            ³       opencv_superres2413.dll
+            ³       opencv_traincascade.exe
+            ³       opencv_traincascaded.exe
+            ³       opencv_video2413.dll
+            ³       opencv_video2413d.dll
+            ³       opencv_videostab2413.dll
+            ³       opencv_visualisation.exe
+            ³       opencv_visualisationd.exe
+            ³       
+            ÀÄÄÄlib
+                    OpenCVConfig.cmake
+                    OpenCVModules-debug.cmake
+                    OpenCVModules-release.cmake
+                    OpenCVModules.cmake
+                    opencv_calib3d2413.lib
+                    opencv_contrib2413.lib
+                    opencv_core2413.lib
+                    opencv_features2d2413.lib
+                    opencv_flann2413.lib
+                    opencv_gpu2413.lib
+                    opencv_highgui2413.lib
+                    opencv_imgproc2413.lib
+                    opencv_legacy2413.lib
+                    opencv_ml2413.lib
+                    opencv_nonfree2413.lib
+                    opencv_objdetect2413.lib
+                    opencv_ocl2413.lib
+                    opencv_photo2413.lib
+                    opencv_stitching2413.lib
+                    opencv_superres2413.lib
+                    opencv_ts2413.lib
+                    opencv_video2413.lib
+                    opencv_videostab2413.lib
+                    
